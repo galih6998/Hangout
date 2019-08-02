@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992495261018",
+    "firebase_url": "https://hangoutbandung-3e93d.firebaseio.com",
+    "project_id": "hangoutbandung-3e93d",
+    "storage_bucket": "hangoutbandung-3e93d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992495261018:android:46a9e4c5327b18de",
+        "android_client_info": {
+          "package_name": "com.galih.hangout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992495261018-dr45bhndshm0i2gprbcjmhvqu10ccujd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.galih.hangout",
+            "certificate_hash": "79700e937f1d02d4c63823b6047bfe07120d0c55"
+          }
+        },
+        {
+          "client_id": "992495261018-mu3s3cv99k7jub97ipm1odsbke3g6cf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNosMQHUN031YKq9C39kRg4WAwv-k2Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992495261018-mu3s3cv99k7jub97ipm1odsbke3g6cf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
